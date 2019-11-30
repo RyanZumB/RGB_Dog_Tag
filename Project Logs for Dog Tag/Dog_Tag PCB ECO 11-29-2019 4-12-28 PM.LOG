@@ -1,0 +1,20 @@
+Added Component: Designator=D1(SMD-LX0707RGB-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SMD-LX0707RGB-TR/67-2331-1-ND/9858269"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMD-LX0707RGB-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SMD-LX0707RGB-TR/67-2331-1-ND/9858269"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMD-LX0707RGB-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SMD-LX0707RGB-TR/67-2331-1-ND/9858269"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SMD-LX0707RGB-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/lumex-opto-components-inc/SMD-LX0707RGB-TR/67-2331-1-ND/9858269"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Dog_Tag Member=Component D1 SMD-LX0707RGB-TR
+Added Member To Class: ClassName=Dog_Tag Member=Component D2 SMD-LX0707RGB-TR
+Added Member To Class: ClassName=Dog_Tag Member=Component D3 SMD-LX0707RGB-TR
+Added Member To Class: ClassName=Dog_Tag Member=Component D4 SMD-LX0707RGB-TR
