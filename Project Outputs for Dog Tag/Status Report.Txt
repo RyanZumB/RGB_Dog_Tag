@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Dog Tag.PrjPcb]
+   Generated File[Dog_Tag-RoundHoles.TXT]
+   Generated File[Dog_Tag-SlotHoles.TXT]
+   Generated File[Dog_Tag.LDP]
+   Generated File[Dog_Tag.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:44:40 PM On 1/3/2020

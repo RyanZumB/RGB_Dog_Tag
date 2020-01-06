@@ -1,0 +1,19 @@
+Added Component: Designator=DISP?(TFT1.14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "_1.14IN_240X135_WRAPUNDER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DISP_LCD_GENERIC_SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic"; Value = "Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "microbuilder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SPITFT"; Value = "SPI TFT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "TFT_GENERIC_SPI_VDD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOSI_3V Pin=DISP?-3
+Added Pin To Net: NetName=SCK_3V Pin=DISP?-4
+Added Pin To Net: NetName=DC_3V Pin=DISP?-5
+Added Pin To Net: NetName=T\F\T\R\S\T\_\3\V\ Pin=DISP?-6
+Added Pin To Net: NetName=TFTCS_3V Pin=DISP?-7
+Added Pin To Net: NetName=3.3V Pin=DISP?-10
+Added Pin To Net: NetName=LED_K Pin=DISP?-11
+Added Pin To Net: NetName=3V Pin=DISP?-12
+Added Member To Class: ClassName=Dog_Tag Member=Component DISP? DISP_LCD_GENERIC_SPI_1.14IN_240X135_WRAPUNDER
+Added Member To Class: ClassName=Dog_Tag Member=Component U3 ATmega328P-AU

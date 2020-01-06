@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC Pin=U5-1
+Removed Pin From Net: NetName=BUTTON Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U5-14
+Removed Member From Class: ClassName=Dog_Tag Member=U5
+Added Pin To Net: NetName=DC Pin=U3-12
+Added Pin To Net: NetName=T\F\T\R\S\T\ Pin=U3-13
+Added Pin To Net: NetName=TFTCS Pin=U3-14
+Added Pin To Net: NetName=MOSI Pin=U3-15
+Added Pin To Net: NetName=SCK Pin=U3-17
+Added Pin To Net: NetName=BUTTON Pin=U3-32
+Added Pin To Net: NetName=MISO Pin=U3-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=NetU3_29 Pin=U3-29
+Added Net: Name=NetU3_29
+Added Pin To Net: NetName=NetU3_30 Pin=U3-30
+Added Net: Name=NetU3_30
+Added Pin To Net: NetName=NetU3_31 Pin=U3-31
+Added Net: Name=NetU3_31

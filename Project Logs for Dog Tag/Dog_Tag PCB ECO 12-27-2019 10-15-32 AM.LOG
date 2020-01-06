@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L1 Old Footprint=2029 New Footprint=NRS5020T6R8MMGJ
+Change Component Footprint: Designator=D5 Old Footprint=SMB New Footprint=SODFL127P600-8N
+Added Member To Class: ClassName=Dog_Tag Member=Component D1 SMD-LX0707RGB-TR
+Added Member To Class: ClassName=Dog_Tag Member=Component D3 SMD-LX0707RGB-TR
+Added Member To Class: ClassName=Dog_Tag Member=Component U2 MIC2288YD5-TR
