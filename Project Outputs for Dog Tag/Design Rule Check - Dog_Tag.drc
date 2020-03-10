@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ryanz\Documents\4th Year Documents\Dog Tag\RGB_Dog_Tag\Dog_Tag.PcbDoc
-Date     : 1/3/2020
-Time     : 12:49:06 PM
+Date     : 1/27/2020
+Time     : 4:38:21 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -37,11 +37,12 @@ Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Via (1100mil,1840mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (1265mil,1820mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (1450mil,2295mil) from Top Layer to Bottom Layer 
-   Violation between Net Antennae: Via (885mil,1840mil) from Top Layer to Bottom Layer 
-Rule Violations :4
+   Violation between Net Antennae: Via (1030mil,1855mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (1105mil,1855mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (1265mil,1825mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (1445mil,2280mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (945mil,2150mil) from Top Layer to Bottom Layer 
+Rule Violations :5
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
@@ -50,6 +51,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 5
 Waived Violations : 0
 Time Elapsed        : 00:00:02

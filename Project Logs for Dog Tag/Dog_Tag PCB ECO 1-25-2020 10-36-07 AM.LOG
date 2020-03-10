@@ -1,0 +1,119 @@
+Removed Pin From Net: NetName=5V Pin=D5-2
+Removed Pin From Net: NetName=VBatt Pin=L1-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=5V Pin=R4-2
+Removed Pin From Net: NetName=3V Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=EN Pin=U2-4
+Removed Pin From Net: NetName=VBatt Pin=U2-5
+Removed Pin From Net: NetName=TFTCS Pin=U6-1
+Removed Pin From Net: NetName=TFTCS_3V Pin=U6-2
+Removed Pin From Net: NetName=T\F\T\R\S\T\ Pin=U6-3
+Removed Pin From Net: NetName=T\F\T\R\S\T\_\3\V\ Pin=U6-4
+Removed Pin From Net: NetName=DC Pin=U6-5
+Removed Pin From Net: NetName=DC_3V Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-7
+Removed Pin From Net: NetName=SCK_3V Pin=U6-8
+Removed Pin From Net: NetName=SCK Pin=U6-9
+Removed Pin From Net: NetName=MOSI_3V Pin=U6-12
+Removed Pin From Net: NetName=MOSI Pin=U6-13
+Removed Pin From Net: NetName=3V Pin=U6-14
+Removed Member From Class: ClassName=Dog_Tag Member=D5
+Removed Member From Class: ClassName=Dog_Tag Member=U6
+Change Component Footprint: Designator=L1 Old Footprint=NRS5020T6R8MMGJ New Footprint=SRN4018TA-4R7M
+Change Component Footprint: Designator=U2 Old Footprint=TSOT-23-5_D5 New Footprint=MCP1642D
+Change Component Comment : Designator=U2 Old Comment=MIC2288YD5-TR New Comment=MCP1642D
+Change Component Designator: OldDesignator=C20 NewDesignator=C14
+Change Component Designator: OldDesignator=DISP1 NewDesignator=DISP?
+Change component parameters: Designator = "R1"; Footprint = "J1-0603"; UniqueID = "\TUXMHDVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "J1-0603"; UniqueID = "\SUUJVVPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "309K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "J1-0603"; UniqueID = "\LRJJHKAZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "953K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14"; Footprint = "J1-0603"; UniqueID = "\VKCKDQVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "143K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "SRN4018TA-4R7M"; UniqueID = "\TVWLMEQX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/taiyo-yuden/NRS5020T100MMGJ/587-2409-1-ND/2230275"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "4.7uH Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/bourns-inc/SRN4018TA-4R7M/SRN4018TA-4R7MCT-ND/6565084"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "MCP1642D"; UniqueID = "\KXIRZHQH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/microchip-technology/MCP1642D-ADJI-MS/MCP1642D-ADJI-MS-ND/5137721"; VariantName = "[No Variations]"
+Added Component: Designator=U5(74HC4050PW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/nexperia-usa-inc/74HC4050PW118/1727-5956-1-ND/2753784"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBatt Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R13-2
+Added Pin To Net: NetName=EN Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=VBatt Pin=U2-8
+Added Pin To Net: NetName=3V Pin=U5-1
+Added Pin To Net: NetName=SCK_3V Pin=U5-2
+Added Pin To Net: NetName=SCK Pin=U5-3
+Added Pin To Net: NetName=MOSI_3V Pin=U5-4
+Added Pin To Net: NetName=MOSI Pin=U5-5
+Added Pin To Net: NetName=VCC Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=DC Pin=U5-9
+Added Pin To Net: NetName=DC_3V Pin=U5-10
+Added Pin To Net: NetName=T\F\T\R\S\T\ Pin=U5-11
+Added Pin To Net: NetName=T\F\T\R\S\T\_\3\V\ Pin=U5-12
+Added Pin To Net: NetName=TFTCS Pin=U5-14
+Added Pin To Net: NetName=TFTCS_3V Pin=U5-15
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC14_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U2-5
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=NetR3_1 Pin=U2-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=Quiet_3V Pin=U5-6
+Added Net: Name=Quiet_3V
+Added Member To Class: ClassName=Dog_Tag Member=Component U5 74HC4050PW,118

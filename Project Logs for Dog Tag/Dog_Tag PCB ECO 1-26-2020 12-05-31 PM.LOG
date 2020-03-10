@@ -1,0 +1,33 @@
+Added Component: Designator=U4(DCU0008A_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3-State Output"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bits(#)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCES547D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Type"; Value = "NAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74LVC2G132"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS/TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125,-40 to 85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "32/-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCU0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sub-Family"; Value = "AND Gate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "16,7.5,6,5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "1.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "1.8,2.5,3.3,5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_1 Pin=U4-1
+Added Pin To Net: NetName=EN Pin=U4-2
+Added Pin To Net: NetName=EN Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetC11_1 Pin=U4-5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Pin To Net: NetName=NetU4_6 Pin=U4-7
+Added Pin To Net: NetName=VBatt Pin=U4-8
+Added Member To Class: ClassName=Dog_Tag Member=Component U4 SN74LVC2G132DCUR
