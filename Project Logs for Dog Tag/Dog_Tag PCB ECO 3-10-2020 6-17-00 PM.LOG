@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=R10-2
+Change Component Designator: OldDesignator=DISP1 NewDesignator=DISP?
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Member To Class: ClassName=Dog_Tag Member=Component C13 Cap Semi
+Added Member To Class: ClassName=Dog_Tag Member=Component R10 Res3
+Added Member To Class: ClassName=Dog_Tag Member=Component R11 Res3
+Added Member To Class: ClassName=Dog_Tag Member=Component SW2 FSM6JSMA

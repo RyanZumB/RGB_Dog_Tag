@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VBatt Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VBatt Pin=C16-2
+Removed Pin From Net: NetName=VBatt Pin=L1-2
+Removed Pin From Net: NetName=VBatt Pin=R6-2
+Removed Pin From Net: NetName=VBatt Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=VBatt Pin=U2-8
+Removed Pin From Net: NetName=EN Pin=U4-2
+Removed Pin From Net: NetName=EN Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=VBatt Pin=U4-8
+Removed Member From Class: ClassName=Dog_Tag Member=C11
+Removed Member From Class: ClassName=Dog_Tag Member=C12
+Removed Member From Class: ClassName=Dog_Tag Member=C15
+Removed Member From Class: ClassName=Dog_Tag Member=C16
+Removed Member From Class: ClassName=Dog_Tag Member=R6
+Removed Member From Class: ClassName=Dog_Tag Member=R7
+Removed Member From Class: ClassName=Dog_Tag Member=R8
+Removed Member From Class: ClassName=Dog_Tag Member=R9
+Removed Member From Class: ClassName=Dog_Tag Member=SW1
+Change Component Designator: OldDesignator=DISP1 NewDesignator=DISP?
+Added Component: Designator=S1(OS102011MA1QN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.apem.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "05-Dec-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Schematic revised, PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 4 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TL36WW15050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBatt Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=VSW Pin=L1-2
+Added Pin To Net: NetName=VSW Pin=S1-2
+Added Pin To Net: NetName=VSW Pin=U2-8
+Added Net: Name=VSW
+Added Member To Class: ClassName=Dog_Tag Member=Component S1 SW-SPDT
